@@ -1,3 +1,5 @@
+<img src="https://github.com/gonzalo16/AppMockito/blob/main/descarga.png"></img>
+
 # AppMockito
 Esta es una aplicación de ejemplo usando pruebas unitarias y pruebas de integración. La aplicación consiste en:
 - Dos entidades (Banco, Cuenta) que simulan operaciones de clientes en una cuenta bancaria
